@@ -3,6 +3,7 @@
 ##############################################################################
 
 
+
 import matplotlib.pyplot as plt
 import random
 game_board = ["-", "-", "-",
@@ -305,6 +306,3 @@ while True:
 
 showWinRate(user_score, bot_score, tie_score)
 print("Thanks for playing!!!")
-
-   
-#Print out a win rate on a graph#
